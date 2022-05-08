@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+hii
+>>>>>>> jss-assign
 
 this jss
 how are you
