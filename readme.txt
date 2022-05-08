@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
-hello
->>>>>>> css-assign
 hii
 this jss
 how are you
